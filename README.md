@@ -1,4 +1,47 @@
-# hello-world
-My first repo 
+author            title               image_url                     caption                                        category  
 
-New student of computer science
+p15gkar           github              /images/githubprofile.ipg      Η σημαντικη συνεισφορά του                    introduction
+                  contribusion                                       Github σε ομαδικες εργασιες,καταγραφοντας  
+                                                                     ακομη και τις ατομικες επιδόσεις των μελών 
+                                                                     της κάθε ομάδας
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
